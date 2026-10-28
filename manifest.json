@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "senovo.shift-calendar",
+  "name": "Shift Calendar",
+  "version": "1.0.0",
+  "author": "senovo",
+  "description": "Multilingual work shift calendar with day/night/off tracking, month view, and 12-month printable annual view",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Shift Calendar",
+    "description": "Work shift calendar with day/night/off tracking and 12-month printable view",
+    "category": "Productivity",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  },
+  "license": "MIT"
+}

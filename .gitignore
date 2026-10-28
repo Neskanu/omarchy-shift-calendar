@@ -1,0 +1,7 @@
+# Local user state & editor artifacts
+*~
+*.swp
+*.qmlc
+*.jsc
+__pycache__/
+.DS_Store
