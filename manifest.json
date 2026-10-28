@@ -3,7 +3,7 @@
   "id": "senovo.shift-calendar",
   "name": "Shift Calendar",
   "version": "1.0.0",
-  "author": "senovo",
+  "author": "Neskanu",
   "description": "Multilingual work shift calendar with day/night/off tracking, month view, and 12-month printable annual view",
   "kinds": [
     "bar-widget"

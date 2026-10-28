@@ -55,7 +55,7 @@ Effortlessly track **Day Shifts**, **Night Shifts**, and **Days Off**, automate 
 ### Via Omarchy CLI (Recommended)
 
 ```bash
-omarchy plugin add https://github.com/senovo/omarchy-shift-calendar --enable
+omarchy plugin add https://github.com/Neskanu/omarchy-shift-calendar --enable
 ```
 
 ### Manual Installation
@@ -63,7 +63,7 @@ omarchy plugin add https://github.com/senovo/omarchy-shift-calendar --enable
 Clone the repository directly into your Omarchy plugins directory:
 
 ```bash
-git clone https://github.com/senovo/omarchy-shift-calendar.git ~/.config/omarchy/plugins/senovo.shift-calendar
+git clone https://github.com/Neskanu/omarchy-shift-calendar.git ~/.config/omarchy/plugins/senovo.shift-calendar
 omarchy plugin enable senovo.shift-calendar
 omarchy restart shell
 ```
